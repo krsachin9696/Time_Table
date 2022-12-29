@@ -1,0 +1,112 @@
+
+        .heading{
+            display: flex;
+            height: 159px;
+            background-color: aquamarine;
+        }
+        .logo{
+            padding: 50px;
+            /* width: 10%; */
+        }
+        .clgname{
+            padding: 40px 20px;
+            margin: 50px;
+            font-size: 40px;
+            /* width: 90%; */
+            /* background-color: yellow; */
+        }
+        .line{
+            height: 4px;
+            background-color: green;
+        }
+        .sem{
+            background-color: green;
+            text-align: center;
+            font-size: 20px;
+            font-weight: bolder;
+            height: 15px;
+            padding: 20px;
+            color: aliceblue;
+        }
+        .wef{
+            background-color: green;
+            text-align: center;
+            font-size: 20px;
+            font-weight: bolder;
+            height: 15px;
+            padding: 20px;
+            color: aliceblue;
+        }
+        .smallline{
+            background-color: green;
+            width: 90%;
+            height: 2px;
+        }
+        .info{
+            display: flex;
+            font-size: large;
+            width: 80%;
+            height: 15px;
+            padding: 0% 15%;
+            font-weight: bold;
+        }
+        .data{
+            padding: 0% 10%;
+        }
+        .teacher{
+            padding: 0% 10%;
+        }
+        .tab{
+            width: 80%;
+            padding-left: 15%;
+            align-items: center;
+            width: 90%;
+            text-align: center;
+            /* box-sizing: border-box; */
+            
+        }
+        .col{
+            border: 1px;
+        }
+        .time{
+            background-color: green;
+            color: aliceblue;
+            border-right: 4px solid white;
+        }
+        .row{
+            font-size: 20px;
+        }
+        .row2{
+            border: 1px solid black;
+        }
+        .lunch{
+            writing-mode: vertical-lr;
+            padding: 10%;
+            font-size: larger;
+        }
+        .sub{
+            font-weight: bold;
+            border-bottom: 4px solid green;
+        }
+        .right{
+            border-right: 4px solid green;
+        }
+        .left{
+            border-left: 4px solid green;
+        }
+        .red{
+            color: red;
+            font-weight: bold;
+        }
+        .white{
+            border-right: 4px solid white;
+        }
+        .design{
+            background-color: aqua;
+        }
+        .footer{
+            background-color: aquamarine;
+            width: 100%;
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+        }
